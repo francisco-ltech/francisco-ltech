@@ -4,6 +4,8 @@ I am a Data Consultant with special interest in Lakehouse and Microservices arch
 
 More information about my company be found at [ltech.io](https://ltech.io)
 
+--- 
+
 ### Toolkit 🔭
 
 This GitHub space contains repos regarding:
@@ -14,8 +16,15 @@ This GitHub space contains repos regarding:
 - **Programming languages:** (Py)Spark, Python, C#, PHP.
 - **IaC & scripting:** Terraform, YAML, PowerShell, Bash.
 
+---
+
 ### How to reach me 📫
 
 See my profile details on the left. 
 
+---
+
+[![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisco-ltech)](https://github.com/francisco-ltech/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-ltech)](https://github.com/francisco-ltech/github-readme-stats)
 
