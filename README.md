@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**francisco-ltech/francisco-ltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Consultant with special interest in Lakehouse and Microservices architectures. I like to build PoC and scale these into Production-grade solutions. 
 
-Here are some ideas to get you started:
+More information about my company be found at [ltech.io](https://ltech.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Toolkit
+
+This GitHub space contains repos regarding:
+
+- **Data platforms & frameworks:** Databricks, Spark, Dbt.
+- **Warehouse technologies:** Delta Lake, Snowflake, Azure Synapse.
+- **Message brokers & orchestrators:** Azure EventHub / Apache Kafka / Apache Airflow.
+- **Programming languages:** (Py)Spark, Python, C#, PHP.
+- **IaC & scripting:** Terraform, YAML, PowerShell, Bash.
+
+### How to reach me 📫
+
+See my profile details on the left. 
+
+
