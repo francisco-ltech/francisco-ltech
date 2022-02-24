@@ -4,7 +4,7 @@ I am a Data Consultant with special interest in Lakehouse and Microservices arch
 
 More information about my company be found at [ltech.io](https://ltech.io)
 
-### Toolkit
+### Toolkit 🔭
 
 This GitHub space contains repos regarding:
 
