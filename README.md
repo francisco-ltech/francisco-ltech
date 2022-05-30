@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Data Consultant with special interest in Lakehouse and Microservices architectures. I like to build PoC and scale these into Production-grade solutions. 
+I am a Data Solutions Consultant with special interest in Lakehouse and Microservices architectures. I like to build PoC and scale these into Production-grade solutions. 
 
 More information about my company be found at [ltech.io](https://ltech.io)
 
